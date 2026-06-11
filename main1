@@ -6,7 +6,7 @@ local gui = Library:create{
 
 local tab = gui:tab{
     Icon = "rbxassetid://6034996695",
-    Name = "Aimbot"
+    Name = "Combat"
 }
 
 tab:button({
